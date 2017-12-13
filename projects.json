@@ -1,0 +1,60 @@
+﻿[
+  {
+    "title": "england",
+    "subtitle": "dashboard of libraries in england",
+    "url": "https://england.librarydata.uk",
+    "description": "showing all libraries in england (as of 2016) alongside various tools such as a library finder, distance stats, and area deprivation measures",
+    "thanks": [
+      "libtaskforce"
+    ]
+  },
+  {
+    "title": "newcastle",
+    "subtitle": "using toonlibraries open data",
+    "url": "https://newcastle.librarydata.uk",
+    "description": "using open data published by newcastle libraries and visualising this in an interactive data dashboard",
+    "thanks": [
+      "audesome",
+      "biblioluke",
+      "toonlibraries",
+      "eighty5"
+    ]
+  },
+  {
+    "title": "mobiles",
+    "subtitle": "mobile library service departure board",
+    "url": "http://somersetmobiles.librarieshacked.org",
+    "description": "using somerset libraries mobile library locations and timetable to show this as a live departure board",
+    "thanks": [
+      "somersetlib"
+    ]
+  },
+  {
+    "title": "twitter",
+    "subtitle": "tracking libraries on twitter",
+    "url": "http://twitter.librarieshacked.org.uk",
+    "description": "showing latest tweets from public libraries (primarily england) on twitter and some summary stats of account usage",
+    "thanks": [
+      "shedsue",
+      "juliac2"
+    ]
+  },
+  {
+    "title": "books",
+    "subtitle": "search uk library catalogues",
+    "url": "https://books.librarydata.uk",
+    "description": "searching through uk library catalogues for the availability of books",
+    "thanks": [
+    ]
+  },
+  {
+    "title": "carpentry",
+    "subtitle": "learning data skills",
+    "url": "https://carpentry.librarydata.uk",
+    "description": "a 1 day data training day in taunton library, adapted from library carpentry materials",
+    "thanks": [
+      "tabisw",
+      "calire"
+    ]
+  }
+]
