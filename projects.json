@@ -56,5 +56,14 @@
       "tabisw",
       "calire"
     ]
+  },
+  {
+    "title": "news",
+    "subtitle": "displaying UK news about libraries",
+    "url": "https://news.librarydata.uk",
+    "description": "tracking news stories from Public Libraries News and dsiplaying them in searchable format",
+    "thanks": [
+      "publiclibnews"
+    ]
   }
 ]
