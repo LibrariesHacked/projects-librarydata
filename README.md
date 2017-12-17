@@ -6,9 +6,9 @@ Base website for the library data project. Currently published at [https://www.l
 What it is
 ----------
 
-Library Data is a project to display various instances of library data, primarily around UK public libraries.
+Library Data is a project to display various examples of library data, primarily from UK public libraries.
 
-These projects have been reliant on various individuals in library services who've made them possible by either collecting the data, or making it available. These people are listed as part of the site content, as well as in the project list in this readme.
+These projects have been reliant on various individuals in library services who've made them possible by either collecting data, or making it available. See below for details.
 
 Projects
 --------
