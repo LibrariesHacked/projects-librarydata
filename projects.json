@@ -1,18 +1,45 @@
 ﻿[
   {
-    "title": "england",
-    "subtitle": "dashboard of libraries in england",
-    "url": "https://england.librarydata.uk",
-    "description": "showing all libraries in england (as of 2016) alongside various tools such as a library finder, distance stats, and area deprivation measures",
+    "title": "sarah's library lists",
+    "subtitle": "lists of libraries on twitter",
+    "url": "https://twitter.librarydata.uk",
+    "github": "twitter-librarydata",
+    "description": "dashboard of the lists compiled by SarahHLib, listing different types of libraries and info about them.",
+    "image": "twitter",
     "thanks": [
-      "libtaskforce"
+      "sarahhlib"
+    ]
+  },
+  {
+    "title": "plymouth",
+    "subtitle": "displaying plymouth libraries",
+    "url": "https://plymouth.librarydata.uk",
+    "github": "plymouth-librarydata",
+    "description": "using plymouth library locations to create a library finder with opening times and 3D map.",
+    "image": "plymouth",
+    "thanks": [
+      "calire",
+      "plymlibraries"
+    ]
+  },
+  {
+    "title": "mobile libraries",
+    "subtitle": "mobile library service departure board",
+    "url": "http://somersetmobiles.librarieshacked.org",
+    "github": "somerset-mobiles",
+    "description": "using somerset libraries mobile library timetable to show a live departure board.",
+    "image": "mobiles",
+    "thanks": [
+      "somersetlib"
     ]
   },
   {
     "title": "newcastle",
     "subtitle": "using toonlibraries open data",
     "url": "https://newcastle.librarydata.uk",
-    "description": "using open data published by newcastle libraries and visualising this in an interactive data dashboard",
+    "github": "wuthering-hacks",
+    "description": "visualising newcastle libraries open data in an interactive data dashboard.",
+    "image": "newcastle",
     "thanks": [
       "audesome",
       "biblioluke",
@@ -21,49 +48,35 @@
     ]
   },
   {
-    "title": "mobiles",
-    "subtitle": "mobile library service departure board",
-    "url": "http://somersetmobiles.librarieshacked.org",
-    "description": "using somerset libraries mobile library locations and timetable to show this as a live departure board",
-    "thanks": [
-      "somersetlib"
-    ]
-  },
-  {
-    "title": "twitter",
-    "subtitle": "tracking libraries on twitter",
-    "url": "http://twitter.librarieshacked.org.uk",
-    "description": "showing latest tweets from public libraries (primarily england) on twitter and some summary stats of account usage",
-    "thanks": [
-      "shedsue",
-      "juliac2"
-    ]
-  },
-  {
     "title": "books",
     "subtitle": "search uk library catalogues",
     "url": "https://books.librarydata.uk",
-    "description": "searching through uk library catalogues for the availability of books",
+    "github": "catalogues-librarydata",
+    "description": "searching through uk library online catalogues for the availability of books.",
+    "image": "books",
     "thanks": [
-    ]
-  },
-  {
-    "title": "carpentry",
-    "subtitle": "learning data skills",
-    "url": "https://carpentry.librarydata.uk",
-    "description": "a 1 day data training day in taunton library, adapted from library carpentry materials",
-    "thanks": [
-      "tabisw",
-      "calire"
     ]
   },
   {
     "title": "news",
     "subtitle": "displaying UK news about libraries",
     "url": "https://news.librarydata.uk",
-    "description": "tracking news stories from Public Libraries News and dsiplaying them in searchable format",
+    "github": "news-librarydata",
+    "description": "tracking news stories from Public Libraries News and displaying them per authority.",
+    "image": "news",
     "thanks": [
       "publiclibnews"
+    ]
+  },
+  {
+    "title": "england",
+    "subtitle": "dashboard of libraries in england",
+    "url": "https://england.librarydata.uk",
+    "github": "england-librarydata",
+    "description": "libraries in england, alongside tools such as library finder, distance stats, and area deprivation.",
+    "image": "england",
+    "thanks": [
+      "libtaskforce"
     ]
   }
 ]
