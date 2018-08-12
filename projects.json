@@ -1,82 +1,81 @@
 ﻿[
-  {
-    "title": "sarah's library lists",
-    "subtitle": "lists of libraries on twitter",
-    "url": "https://twitter.librarydata.uk",
-    "github": "twitter-librarydata",
-    "description": "dashboard of the lists compiled by SarahHLib, listing different types of libraries and info about them.",
-    "image": "twitter",
-    "thanks": [
-      "sarahhlib"
-    ]
-  },
-  {
-    "title": "plymouth",
-    "subtitle": "displaying plymouth libraries",
-    "url": "https://plymouth.librarydata.uk",
-    "github": "plymouth-librarydata",
-    "description": "using plymouth library locations to create a library finder with opening times and 3D map.",
-    "image": "plymouth",
-    "thanks": [
-      "calire",
-      "plymlibraries"
-    ]
-  },
-  {
-    "title": "mobile libraries",
-    "subtitle": "mobile library service departure board",
-    "url": "http://somersetmobiles.librarieshacked.org",
-    "github": "somerset-mobiles",
-    "description": "using somerset libraries mobile library timetable to show a live departure board.",
-    "image": "mobiles",
-    "thanks": [
-      "somersetlib"
-    ]
-  },
-  {
-    "title": "newcastle",
-    "subtitle": "using toonlibraries open data",
-    "url": "https://newcastle.librarydata.uk",
-    "github": "wuthering-hacks",
-    "description": "visualising newcastle libraries open data in an interactive data dashboard.",
-    "image": "newcastle",
-    "thanks": [
-      "audesome",
-      "biblioluke",
-      "toonlibraries",
-      "eighty5"
-    ]
-  },
-  {
-    "title": "books",
-    "subtitle": "search uk library catalogues",
-    "url": "https://books.librarydata.uk",
-    "github": "catalogues-librarydata",
-    "description": "searching through uk library online catalogues for the availability of books.",
-    "image": "books",
-    "thanks": [
-    ]
-  },
-  {
-    "title": "news",
-    "subtitle": "displaying UK news about libraries",
-    "url": "https://news.librarydata.uk",
-    "github": "news-librarydata",
-    "description": "tracking news stories from Public Libraries News and displaying them per authority.",
-    "image": "news",
-    "thanks": [
-      "publiclibnews"
-    ]
-  },
-  {
-    "title": "england",
-    "subtitle": "dashboard of libraries in england",
-    "url": "https://england.librarydata.uk",
-    "github": "england-librarydata",
-    "description": "libraries in england, alongside tools such as library finder, distance stats, and area deprivation.",
-    "image": "england",
-    "thanks": [
-      "libtaskforce"
-    ]
-  }
+	{
+		"title": "sarah's library lists",
+		"subtitle": "lists of libraries on twitter",
+		"url": "https://twitter.librarydata.uk",
+		"github": "twitter-librarydata",
+		"description": "dashboard of twitter lists compiled by SarahHLib, listing libraries and info about them.",
+		"image": "twitter",
+		"thanks": [
+			"sarahhlib"
+		]
+	},
+	{
+		"title": "plymouth",
+		"subtitle": "displaying plymouth libraries",
+		"url": "https://plymouth.librarydata.uk",
+		"github": "plymouth-librarydata",
+		"description": "using plymouth library locations to create a library finder with opening times and 3D map.",
+		"image": "plymouth",
+		"thanks": [
+			"calire",
+			"plymlibraries"
+		]
+	},
+	{
+		"title": "mobile libraries",
+		"subtitle": "mobile library service departure board",
+		"url": "http://somersetmobiles.librarieshacked.org",
+		"github": "somerset-mobiles",
+		"description": "using somerset libraries mobile library timetable to show a live departure board.",
+		"image": "mobiles",
+		"thanks": [
+			"somersetlib"
+		]
+	},
+	{
+		"title": "newcastle",
+		"subtitle": "using toonlibraries open data",
+		"url": "https://newcastle.librarydata.uk",
+		"github": "wuthering-hacks",
+		"description": "visualising newcastle libraries open data in an interactive data dashboard.",
+		"image": "newcastle",
+		"thanks": [
+			"audesome",
+			"biblioluke",
+			"toonlibraries",
+			"eighty5"
+		]
+	},
+	{
+		"title": "books",
+		"subtitle": "search uk library catalogues",
+		"url": "https://books.librarydata.uk",
+		"github": "catalogues-librarydata",
+		"description": "searching through uk library online catalogues for the availability of books.",
+		"image": "books",
+		"thanks": []
+	},
+	{
+		"title": "news",
+		"subtitle": "displaying UK news about libraries",
+		"url": "https://news.librarydata.uk",
+		"github": "news-librarydata",
+		"description": "tracking news stories from Public Libraries News and displaying them per authority.",
+		"image": "news",
+		"thanks": [
+			"publiclibnews"
+		]
+	},
+	{
+		"title": "england",
+		"subtitle": "dashboard of libraries in england",
+		"url": "https://england.librarydata.uk",
+		"github": "england-librarydata",
+		"description": "libraries in england, alongside tools such as library finder, distance stats, and area deprivation.",
+		"image": "england",
+		"thanks": [
+			"libtaskforce"
+		]
+	}
 ]
