@@ -1,6 +1,6 @@
 ﻿[
 	{
-		"title": "sarah's library lists",
+		"title": "Sarah's Library Lists",
 		"subtitle": "lists of libraries on twitter",
 		"url": "https://twitter.librarydata.uk",
 		"github": "twitter-librarydata",
@@ -11,11 +11,22 @@
 		]
 	},
 	{
-		"title": "plymouth",
+		"title": "IFLA data",
+		"subtitle": "world library map data",
+		"url": "https://ifla.librarydata.uk",
+		"github": "ifla-librarydata",
+		"description": "taking IFLA world library data and providing a download link and dynamic table.",
+		"image": "ifla",
+		"thanks": [
+			"ifla_librarymap"
+		]
+	},
+	{
+		"title": "Plymouth",
 		"subtitle": "displaying plymouth libraries",
 		"url": "https://plymouth.librarydata.uk",
 		"github": "plymouth-librarydata",
-		"description": "using plymouth library locations to create a library finder with opening times and 3D map.",
+		"description": "using plymouth library locations to create a library finder with opening hours and 3D map.",
 		"image": "plymouth",
 		"thanks": [
 			"calire",
@@ -23,7 +34,7 @@
 		]
 	},
 	{
-		"title": "mobile libraries",
+		"title": "Mobile Libraries",
 		"subtitle": "mobile library service departure board",
 		"url": "http://somersetmobiles.librarieshacked.org",
 		"github": "somerset-mobiles",
@@ -34,11 +45,11 @@
 		]
 	},
 	{
-		"title": "newcastle",
+		"title": "Newcastle",
 		"subtitle": "using toonlibraries open data",
 		"url": "https://newcastle.librarydata.uk",
 		"github": "wuthering-hacks",
-		"description": "visualising newcastle libraries open data in an interactive data dashboard.",
+		"description": "visualising newcastle libraries usage open data in an interactive data dashboard.",
 		"image": "newcastle",
 		"thanks": [
 			"audesome",
@@ -48,16 +59,16 @@
 		]
 	},
 	{
-		"title": "books",
+		"title": "Books",
 		"subtitle": "search uk library catalogues",
 		"url": "https://books.librarydata.uk",
 		"github": "catalogues-librarydata",
-		"description": "searching through uk library online catalogues for the availability of books.",
+		"description": "searching through UK library online catalogues for the availability of books.",
 		"image": "books",
 		"thanks": []
 	},
 	{
-		"title": "news",
+		"title": "News",
 		"subtitle": "displaying UK news about libraries",
 		"url": "https://news.librarydata.uk",
 		"github": "news-librarydata",
@@ -68,7 +79,7 @@
 		]
 	},
 	{
-		"title": "england",
+		"title": "England",
 		"subtitle": "dashboard of libraries in england",
 		"url": "https://england.librarydata.uk",
 		"github": "england-librarydata",
@@ -76,6 +87,17 @@
 		"image": "england",
 		"thanks": [
 			"libtaskforce"
+		]
+	},
+	{
+		"title": "Disbumptors",
+		"subtitle": "dashboard of a twitter list",
+		"url": "https://disbumptors.librarydata.uk",
+		"github": "disbumptors-librarydata",
+		"description": "another twitter list. a variety of digital people doing some things.",
+		"image": "disbumptors",
+		"thanks": [
+			"nickpoole1"
 		]
 	}
 ]
